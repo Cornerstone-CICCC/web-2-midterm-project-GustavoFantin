@@ -1,0 +1,11 @@
+-api para ID e busca: https://developer.themoviedb.org/reference/search-multi
+
+-api para videos trailer https://developer.themoviedb.org/reference/movie-videos
+
+-imagens: https://developer.themoviedb.org/reference/movie-credits
+
+-api para detalhes, overview, genre, poster https://developer.themoviedb.org/reference/movie-details
+
+-atores e creditos: https://developer.themoviedb.org/reference/movie-credits
+
+-reviews: https://developer.themoviedb.org/reference/movie-reviews
