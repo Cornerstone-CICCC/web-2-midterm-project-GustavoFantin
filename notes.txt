@@ -1,11 +1,32 @@
 -api para ID e busca: https://developer.themoviedb.org/reference/search-multi
 
--api para videos trailer https://developer.themoviedb.org/reference/movie-videos
+ -api para videos trailer https://developer.themoviedb.org/reference/movie-videos
 
 -imagens: https://developer.themoviedb.org/reference/movie-credits
 
--api para detalhes, overview, genre, poster https://developer.themoviedb.org/reference/movie-details
+ -api para detalhes, overview, genre, poster https://developer.themoviedb.org/reference/movie-details
 
--atores e creditos: https://developer.themoviedb.org/reference/movie-credits
+ -atores e creditos: https://developer.themoviedb.org/reference/movie-credits
 
 -reviews: https://developer.themoviedb.org/reference/movie-reviews
+
+https://developer.themoviedb.org/reference/trending-movies
+
+
+modal => nasce com display: hidden, e ao clicar voce muda o display para aparecer. usar dialog ao invez de modal devido as suas propriedades ao usar o javascript, estudar.  colocando open e false pode alterar seu display. atributo, metodos
+
+
+
+fazer fetch dentro do addeventlistener dos detalhes, 
+
+
+detalhes a serem colocados => {
+    rating *
+    nome
+    overview
+    generos
+    poster
+    ""trailer""
+}
+
+### tirar duvida sobre navbar no mobile em pesquisar ao pressionar enter    
